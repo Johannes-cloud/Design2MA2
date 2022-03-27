@@ -210,7 +210,7 @@ i {
 
 .productpage-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("/images/heroproductimg.jpg");
-    height: 400px;
+    height: 600px;
     top: 100px;
     background-position: center;
     background-repeat: no-repeat;
